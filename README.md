@@ -1,7 +1,7 @@
 ## Welcome to TLE 9AY 2022-2023
 ---
 >Hi! bat ampogiko?
-ice cream
+-ice cream
 pizza
 XXTENTION
-IDOLS:https://images.app.goo.gl/NJUQQNTbXaxdHYu7A
+[IDOLS]:https://images.app.goo.gl/NJUQQNTbXaxdHYu7A
