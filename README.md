@@ -2,9 +2,9 @@
 ---
 >*Hi!*:>
 
->ice cream,
-
->pizza,
+|Monday|Tuesday|wedsday|Thursday|Friday|
+ --------------------------------------
+|Bacon |Chicken|sinigang|Adobo|Cornbeef|
 
 ![image](https://user-images.githubusercontent.com/118234208/203453114-1c954f95-89e2-4f55-b4aa-c3e7f9cbb484.png)
 Zack Nimrod Tabudlo (born December 6, 2001) is a Filipino singer, songwriter and musician. He was first seen as a contestant on the first season of The Voice Kids under Bamboo Mañalac's mentorship, where he was eliminated in the competition's second round.[1] He later began his musical career in 2018 before he rose to fame in 2020 when he joined MCA Music (now UMG Philippines) through sub-label Island Records Philippines.Then,his debut single "Nangangamba" was released in 2020. His song "Binibini", released in 2021, broke a record as the top local song on Spotify's Philippines charts
@@ -15,4 +15,4 @@ Morant was only lightly recruited by NCAA Division I programs and unranked by re
 
 [Facebook](https://www.facebook.com/bazar)
 
-[Messenge](https://www.messenger.com)
+[Messenge](https://www.messenger.com/bazar)
